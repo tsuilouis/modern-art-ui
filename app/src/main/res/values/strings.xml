@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">ModernArtUI</string>
+    <string name="more_info_item">More information</string>
+    <string name="dialog_info">
+        <![CDATA[Inspired by the works of artists such as Piet Mondrian and Ben Nicholson
+           Click below to learn more!]]></string>
+    <string name="dialog_webpage">Visit MOMA</string>
+    <string name="dialog_cancel">Not now</string>
+
+    <string name="cyan_rect">Cyan Rectangle</string>
+    <string name="magenta_rect">Magenta Rectangle</string>
+    <string name="light_grey_rect">Light Grey Rectangle</string>
+    <string name="orange_rect">Orange Rectangle</string>
+    <string name="lime_rect">Lime Rectangle</string>
 </resources>
